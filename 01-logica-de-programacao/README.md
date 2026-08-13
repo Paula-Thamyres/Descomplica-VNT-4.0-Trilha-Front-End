@@ -1,185 +1,192 @@
-# 💻 Lógica de Programação
+# 🌐 Trilha Lógica de Programação para WEB
 
-> **Lógica de Programação Descomplica VNT 4.0**
+<div align="center">
 
-Este diretório reúne os exercícios e atividades desenvolvidos ao longo do curso de **Lógica de Programação**, como parte da Trilha de Front-End do Descomplica VNT 4.0.
+![Descomplica VNT 4.0](https://img.shields.io/badge/Descomplica-VNT%204.0-6C3CE9?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge)
+![Módulo Atual](https://img.shields.io/badge/módulo%20atual-01%20·%20Lógica-blue?style=for-the-badge)
+![Licença](https://img.shields.io/badge/licença-MIT-lightgrey?style=for-the-badge)
 
-O principal objetivo deste repositório é registrar o processo de **aprendizado, prática e evolução** durante as aulas, desde os primeiros exercícios de lógica até a construção do projeto final.
+**Lógica • Web • JavaScript**
 
----
+</div>
 
-## 🎯 Sobre o curso
-
-Este curso representa o primeiro contato da trilha com os fundamentos necessários para começar a desenvolver aplicações para a Web.
-
-Os exercícios foram desenvolvidos inicialmente **conforme as propostas apresentadas durante as aulas**, com foco em compreender os conceitos e praticar a lógica de programação.
-
-Após concluir os exercícios, também realizei **pequenas melhorias e adaptações por iniciativa própria**, buscando praticar um pouco além do que foi solicitado e compreender melhor o funcionamento do código.
-
-> 💡 Como são exercícios introdutórios, as melhorias realizadas são simples e têm principalmente o objetivo de **reforçar o aprendizado e a prática dos conceitos apresentados em aula**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,git,github,vscode&theme=dark" alt="Stack atual" />
+</p>
 
 ---
 
-## 📚 Estrutura do curso
+## 📖 Sobre
 
-```text
-📁 Lógica de Programação
-│
-├── 📂 Módulo 01
-├── 📂 Módulo 02
-├── 📂 Módulo 03
-├── 📂 Módulo 04
-├── 📂 Módulo 05
-├── 📂 Módulo 06
-├── 📂 Módulo 07
-│
-└── 📂 Projeto Final
+Este repositório reúne minha jornada de aprendizado na **Trilha Lógica de Programação para WEB**, passando pelos fundamentos de lógica, introdução ao desenvolvimento Web e JavaScript.
+
+A proposta é acompanhar não apenas os projetos e exercícios desenvolvidos durante os cursos, mas também registrar minha **evolução, experimentações e aprendizados** ao longo da trilha.
+
+> 🌱 *Ainda há muito pela frente — este é o começo da jornada.*
+
+---
+
+## 🗂️ Índice
+
+- [Sobre a trilha](#-sobre-a-trilha)
+- [Progresso](#-progresso)
+- [Estrutura da trilha](#-estrutura-da-trilha)
+- [Tecnologias](#️-tecnologias)
+- [Aprender além do exercício](#-aprender-além-do-exercício)
+- [Objetivo](#-objetivo)
+- [Como navegar no repositório](#-como-navegar-no-repositório)
+
+---
+
+## 🚀 Sobre a trilha
+
+A trilha foi estruturada para construir, de forma progressiva, uma base sólida para o desenvolvimento Web — começando pela **lógica de programação**, passando pela compreensão da **Web** e evoluindo para o desenvolvimento com **JavaScript**.
+
+```mermaid
+flowchart LR
+    A["🧠 Lógica de Programação"] --> B["🌐 Introdução à Web"]
+    B --> C["⚡ JavaScript"]
+    C --> D["🚀 Próximos desafios"]
+
+    style A fill:#6C3CE9,color:#fff
+    style B fill:#2563EB,color:#fff
+    style C fill:#F7DF1E,color:#000
+    style D fill:#10B981,color:#fff
 ```
 
-### 🧩 Módulos 01 a 07
+---
 
-Contêm os exercícios desenvolvidos durante as aulas e atividades propostas ao longo do curso.
+## 📊 Progresso
 
-A organização por módulos permite acompanhar de forma mais clara a evolução dos conteúdos e dos conhecimentos adquiridos.
+| Módulo | Tema | Status |
+|:------:|:-----|:------:|
+| 01 | 🧠 Lógica de Programação para WEB | 🔄 Em andamento |
+| 02 | 🌐 Introdução à Web | ⏳ Próximo |
+| 03 | ⚡ JavaScript | ⏳ Próximo |
 
-### 🚀 Projeto Final
+```text
+Progresso geral da trilha
+[███████░░░░░░░░░░░░░░░░░░░░░░] 1/3 módulos iniciados
+```
 
-O projeto final está organizado em uma pasta própria, separado dos exercícios dos módulos, permitindo uma apresentação mais clara do resultado desenvolvido ao final do curso.
+---
+
+## 📚 Estrutura da trilha
+
+<details open>
+<summary><strong>01 · 🧠 Lógica de Programação para WEB</strong></summary>
+
+<br>
+
+O primeiro módulo é dedicado à construção dos fundamentos de lógica necessários para começar a programar. Aqui estão sendo desenvolvidos diversos **exercícios práticos** para treinar os conceitos apresentados nas aulas.
+
+**🧩 Exercícios**
+
+A proposta inicial é resolver os exercícios durante as aulas e, depois, realizar pequenas melhorias e experimentações por conta própria:
+
+- [x] Praticar um pouco além do que foi solicitado
+- [x] Testar diferentes possibilidades
+- [x] Melhorar pequenas partes do código
+- [x] Entender melhor os conceitos
+- [x] Desenvolver autonomia na resolução dos problemas
+
+> 💡 *A ideia é aprender fazendo — e continuar experimentando depois que o exercício termina.*
+
+**🚀 Projeto Final:** reúne e aplica os conhecimentos trabalhados ao longo das atividades do módulo.
+
+</details>
+
+<details>
+<summary><strong>02 · 🌐 Introdução à Web</strong></summary>
+
+<br>
+
+Módulo dedicado aos fundamentos da Web, ampliando os conhecimentos construídos na etapa de lógica — entendendo como páginas e aplicações Web são estruturadas.
+
+**🚀 Projeto Final:** aplica na prática os conceitos apresentados no curso.
+
+</details>
+
+<details>
+<summary><strong>03 · ⚡ JavaScript</strong></summary>
+
+<br>
+
+Etapa para aprofundar a programação no desenvolvimento Web, trabalhando com uma linguagem essencial para criar páginas mais dinâmicas e interativas.
+
+**🚀 Projeto Final:** consolida os conhecimentos desenvolvidos ao longo do curso.
+
+</details>
 
 ---
 
 ## 🛠️ Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="Tecnologias" />
 </p>
 
-* **HTML5** — estrutura das páginas e exercícios.
-* **JavaScript Vanilla** — desenvolvimento da lógica e interação com o usuário.
-* **Git/GitHub** — versionamento e organização dos estudos.
+```text
+🧠 Lógica            🌐 Web                  ⚡ JavaScript
+   │                    │                       │
+   ├── Variáveis        ├── Estrutura           ├── Programação
+   ├── Operadores       ├── Documentos Web      ├── Interatividade
+   ├── Condições        └── Fundamentos         └── Dev Web
+   ├── Repetições
+   └── Funções
+```
+
+> 🔧 A stack será ampliada conforme novos módulos forem concluídos.
 
 ---
 
-## 🧠 Principais aprendizados
+## 🧪 Aprender além do exercício
 
-Durante o curso foram trabalhados conceitos fundamentais de lógica de programação e JavaScript, entre eles:
+```mermaid
+flowchart TD
+    A["📖 Aula"] --> B["📝 Exercício"]
+    B --> C["✅ Resolução"]
+    C --> D["🔍 Experimentação"]
+    D --> E["🛠️ Pequenas melhorias"]
+    E --> F["🧠 Aprendizado"]
 
-* 📌 Variáveis e constantes;
-* 📥 Entrada e saída de dados;
-* ➕ Operadores aritméticos, relacionais e lógicos;
-* 🔀 Estruturas condicionais;
-* 🔁 Estruturas de repetição;
-* ⚙️ Funções;
-* 📦 Manipulação e tratamento de dados;
-* 🔎 Validação de informações;
-* 🧩 Organização da lógica de um programa;
-* 🌐 Integração entre HTML e JavaScript;
-* 💻 Desenvolvimento de pequenos programas utilizando JavaScript.
+    style A fill:#334155,color:#fff
+    style F fill:#10B981,color:#fff
+```
+
+Depois de concluir um exercício, faço pequenas alterações para testar possibilidades e entender melhor o comportamento do código — sem transformar exercícios introdutórios em projetos sofisticados, mas aproveitando cada atividade como uma oportunidade extra de estudo.
 
 ---
 
-## 💡 Um pouco além do exercício
+## 🎯 Objetivo
 
-Uma parte importante deste repositório é justamente registrar não apenas a resolução dos exercícios, mas também a **experimentação após a resolução**.
-
-Depois de concluir algumas atividades, foram realizadas pequenas alterações para testar possibilidades diferentes e compreender melhor o comportamento do código.
-
-Por exemplo, um exercício simples de entrada de dados pode começar com:
-
-```javascript
-const nome = prompt("Informe seu nome:");
-console.log(nome);
-```
-
-E, durante a prática, receber pequenas melhorias:
-
-```javascript
-const nome = prompt("Informe seu nome:") || "Desconhecido";
-
-document.getElementById("resultado").innerText =
-  `Olá, ${nome}!`;
-```
-
-São alterações simples, mas ajudam a transformar o exercício em uma oportunidade de **experimentar, testar e aprender**.
+Construir uma base consistente em **lógica de programação e desenvolvimento Web**, avançando gradualmente para JavaScript e projetos mais completos — transformando cada etapa em uma oportunidade de **praticar, experimentar, entender e evoluir**.
 
 ---
 
-## 🧪 Exemplo de exercício
-
-Um dos exercícios trabalha entrada de dados, conversão de valores e validação:
-
-```javascript
-const name = prompt("Informe o seu nome:") || "Desconhecido";
-
-const age = Number(
-  prompt("Informe a sua idade:")
-);
-
-const city =
-  prompt("Informe a cidade onde mora:") ||
-  "Não informada";
-
-const validAge =
-  !isNaN(age) && age > 0 ? age : 0;
-
-const message = `Nome: ${name}
-Idade: ${validAge}
-Cidade: ${city}`;
-
-document.getElementById("resultado").innerText = message;
-```
-
-Esse tipo de exercício permite praticar conceitos básicos como:
+## 🧭 Como navegar no repositório
 
 ```text
-Entrada de dados
-      ↓
-Conversão
-      ↓
-Validação
-      ↓
-Processamento
-      ↓
-Exibição do resultado
+📦 trilha-logica-web
+ ┣ 📂 01-logica-programacao
+ ┃ ┣ 📂 exercicios
+ ┃ ┗ 📂 projeto-final
+ ┣ 📂 02-introducao-web
+ ┃ ┗ 📂 (em breve)
+ ┣ 📂 03-javascript
+ ┃ ┗ 📂 (em breve)
+ ┗ 📜 README.md
 ```
 
 ---
 
-## 📈 Evolução durante os estudos
+<div align="center">
 
-A proposta deste repositório não é apresentar apenas códigos prontos, mas também **registrar uma etapa importante da minha evolução na programação**.
+### 💻 Descomplica VNT 4.0
 
-Os primeiros exercícios possuem uma abordagem mais simples e direta, enquanto as pequenas melhorias realizadas posteriormente representam momentos de experimentação e aprofundamento dos conceitos.
+Aprender · Praticar · Experimentar · Evoluir
 
-A ideia é que este repositório também sirva como um registro do ponto de partida da minha jornada no desenvolvimento Front-End.
+🌐 **Esta jornada está apenas começando.**
 
-> **Aprender programação também é testar, errar, modificar, comparar e tentar novamente.**
-
----
-
-## 🎓 Lógica de Programação
-
-Este curso faz parte da **Trilha de Front-End da Residência Descomplica VNT 4.0**, sendo uma das primeiras etapas da formação.
-
-O conteúdo desenvolvido aqui serve como base para os próximos cursos e projetos da trilha, principalmente para a evolução dos conhecimentos em desenvolvimento Web.
-
----
-
-## 👩‍💻 Sobre este repositório
-
-Este repositório possui caráter **educacional**, reunindo atividades realizadas durante o processo de formação.
-
-Os códigos apresentados representam exercícios de aprendizado e experimentação, desenvolvidos com o objetivo de construir uma base sólida em lógica de programação e JavaScript.
-
----
-
-### 🌱 Em constante evolução
-
-Este é apenas o começo.
-
-Cada exercício representa uma pequena etapa na construção de conhecimentos que serão utilizados nos próximos projetos da trilha de Front-End.
-
-**Do primeiro `console.log()` aos próximos projetos. 🚀**
-
----
+</div>
