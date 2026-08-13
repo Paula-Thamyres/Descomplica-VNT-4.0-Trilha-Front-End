@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<body>
+	<h2>*** Apresentação ***</h2>
+	<script>
+		const name = prompt("Informe o seu nome: ") || "Desconhecido";
+		const age = Number(prompt("Informe a sua idade: "));
+		const city = prompt("Informe a cidade onde mora: ") || "Não informada";
+		const validAge = !isNaN(age) && age > 0 ? age : 0;
+		const message = `Nome: ${name}
+Idade: ${validAge}
+Cidade: ${city}`;
+		alert(message);
+		console.log(message);
+	</script>
+</body>
