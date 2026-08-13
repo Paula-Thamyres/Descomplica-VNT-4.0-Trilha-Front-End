@@ -1,8 +1,8 @@
 # 💻 Lógica de Programação
 
-> **Primeiro curso da Trilha de Front-End — Residência Descomplica VNT 4.0**
+> **Lógica de Programação Descomplica VNT 4.0**
 
-Este diretório reúne os exercícios e atividades desenvolvidos ao longo do curso de **Lógica de Programação**, como parte da Trilha de Front-End da Residência Descomplica VNT 4.0.
+Este diretório reúne os exercícios e atividades desenvolvidos ao longo do curso de **Lógica de Programação**, como parte da Trilha de Front-End do Descomplica VNT 4.0.
 
 O principal objetivo deste repositório é registrar o processo de **aprendizado, prática e evolução** durante as aulas, desde os primeiros exercícios de lógica até a construção do projeto final.
 
@@ -158,7 +158,7 @@ A ideia é que este repositório também sirva como um registro do ponto de part
 
 ---
 
-## 🎓 Residência Descomplica VNT 4.0
+## 🎓 Lógica de Programação
 
 Este curso faz parte da **Trilha de Front-End da Residência Descomplica VNT 4.0**, sendo uma das primeiras etapas da formação.
 
