@@ -1,25 +1,24 @@
-﻿<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Apresentação Pessoal</title>
-</head>
-<body>
-    <h2>*** Apresentação ***</h2>
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Perfil</title>
+  </head>
+
+  <body>
+    <h1>Apresentação Pessoal</h1>
+    <p id="resultado"></p>
 
     <script>
-        const name = prompt("Informe o seu nome: ") || "Desconhecido";
-        const age = Number(prompt("Informe a sua idade: "));
-        const city = prompt("Informe a cidade onde mora: ") || "Não informada";
-
-        const validAge = !isNaN(age) && age > 0 ? age : 0;
-
-        const message = `Nome: ${name}
+      const name = prompt('Informe o seu nome: ') || 'Desconhecido';
+      const age = Number(prompt('Informe a sua idade: '));
+      const city = prompt('Informe a cidade onde mora: ') || 'Não informada';
+      const validAge = !isNaN(age) && age > 0 ? age : 0;
+      const message = `Nome: ${name}
 Idade: ${validAge}
 Cidade: ${city}`;
 
-        alert(message);
-        console.log(message);
+      document.getElementById('resultado').innerText = message;
     </script>
-</body>
+  </body>
 </html>
