@@ -1,16 +1,25 @@
-<!DOCTYPE html>
-<meta charset="UTF-8">
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Apresentação Pessoal</title>
+</head>
 <body>
-	<h2>*** Apresentação ***</h2>
-	<script>
-		const name = prompt("Informe o seu nome: ") || "Desconhecido";
-		const age = Number(prompt("Informe a sua idade: "));
-		const city = prompt("Informe a cidade onde mora: ") || "Não informada";
-		const validAge = !isNaN(age) && age > 0 ? age : 0;
-		const message = `Nome: ${name}
+    <h2>*** Apresentação ***</h2>
+
+    <script>
+        const name = prompt("Informe o seu nome: ") || "Desconhecido";
+        const age = Number(prompt("Informe a sua idade: "));
+        const city = prompt("Informe a cidade onde mora: ") || "Não informada";
+
+        const validAge = !isNaN(age) && age > 0 ? age : 0;
+
+        const message = `Nome: ${name}
 Idade: ${validAge}
 Cidade: ${city}`;
-		alert(message);
-		console.log(message);
-	</script>
+
+        alert(message);
+        console.log(message);
+    </script>
 </body>
+</html>

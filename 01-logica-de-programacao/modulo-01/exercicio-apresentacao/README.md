@@ -1,4 +1,4 @@
-# Apresentação Pessoal em JavaScript
+﻿# Apresentação Pessoal em JavaScript
 
 Exercício de lógica em JavaScript puro que captura dados do usuário (nome, idade e cidade) via `prompt()`, valida as entradas e exibe o resultado sem manipulação do DOM.
 
