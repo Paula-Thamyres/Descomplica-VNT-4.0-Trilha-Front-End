@@ -3,8 +3,6 @@
 <div align="center">
 
 ![Descomplica VNT 4.0](https://img.shields.io/badge/Descomplica-VNT%204.0-6C3CE9?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge)
-![Módulo Atual](https://img.shields.io/badge/módulo%20atual-01%20·%20Lógica-blue?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/licença-MIT-lightgrey?style=for-the-badge)
 
 **Lógica • Web • JavaScript**
@@ -30,7 +28,6 @@ A proposta é acompanhar não apenas os projetos e exercícios desenvolvidos dur
 ## 🗂️ Índice
 
 - [Sobre a trilha](#-sobre-a-trilha)
-- [Progresso](#-progresso)
 - [Estrutura da trilha](#-estrutura-da-trilha)
 - [Tecnologias](#️-tecnologias)
 - [Aprender além do exercício](#-aprender-além-do-exercício)
@@ -57,24 +54,9 @@ flowchart LR
 
 ---
 
-## 📊 Progresso
-
-| Módulo | Tema | Status |
-|:------:|:-----|:------:|
-| 01 | 🧠 Lógica de Programação para WEB | 🔄 Em andamento |
-| 02 | 🌐 Introdução à Web | ⏳ Próximo |
-| 03 | ⚡ JavaScript | ⏳ Próximo |
-
-```text
-Progresso geral da trilha
-[███████░░░░░░░░░░░░░░░░░░░░░░] 1/3 módulos iniciados
-```
-
----
-
 ## 📚 Estrutura da trilha
 
-<details open>
+<details>
 <summary><strong>01 · 🧠 Lógica de Programação para WEB</strong></summary>
 
 <br>
@@ -83,13 +65,13 @@ O primeiro módulo é dedicado à construção dos fundamentos de lógica necess
 
 **🧩 Exercícios**
 
-A proposta inicial é resolver os exercícios durante as aulas e, depois, realizar pequenas melhorias e experimentações por conta própria:
+A proposta é resolver os exercícios durante as aulas e, depois, realizar pequenas melhorias e experimentações por conta própria:
 
-- [x] Praticar um pouco além do que foi solicitado
-- [x] Testar diferentes possibilidades
-- [x] Melhorar pequenas partes do código
-- [x] Entender melhor os conceitos
-- [x] Desenvolver autonomia na resolução dos problemas
+- Praticar um pouco além do que foi solicitado
+- Testar diferentes possibilidades
+- Melhorar pequenas partes do código
+- Entender melhor os conceitos
+- Desenvolver autonomia na resolução dos problemas
 
 > 💡 *A ideia é aprender fazendo — e continuar experimentando depois que o exercício termina.*
 
