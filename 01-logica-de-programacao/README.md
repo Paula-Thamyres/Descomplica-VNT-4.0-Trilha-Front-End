@@ -1,34 +1,34 @@
-﻿# Apresentação Pessoal em JavaScript
+﻿# Lógica de Programação
 
-Exercício de lógica em JavaScript puro que captura dados do usuário (nome, idade e cidade) via `prompt()`, valida as entradas e exibe o resultado sem manipulação do DOM.
+Primeiro curso da trilha de Front-End da Residência Descomplica VNT 4.0.
 
-## Sobre o projeto
+Este diretório reúne os exercícios desenvolvidos ao longo dos módulos do curso e o projeto final, organizado separadamente para facilitar a avaliação e consulta.
 
-A proposta inicial era simples: coletar informações do usuário e exibi-las na tela. A partir daí, o exercício foi evoluído para incluir:
+## Estrutura
 
-- **Validação de entrada:** valores vazios ou cancelados recebem um padrão (`Desconhecido`, `Não informada`), e idades inválidas (`NaN` ou negativas) são tratadas como `0`.
-- **Boas práticas de declaração:** uso de `const` para valores que não mudam, evitando reatribuições acidentais.
-- **Template literals:** utilizados para montar a mensagem final de forma legível.
-- **Exibição sem DOM:** por escolha, o resultado é mostrado via `alert()` e `console.log()`, mantendo o foco na lógica em vez da manipulação de elementos HTML.
+- **Módulo 01 a Módulo 07:** exercícios desenvolvidos durante as aulas e atividades da trilha.
+- **Projeto Final:** projeto desenvolvido ao final do curso, separado dos exercícios dos módulos.
 
 ## Tecnologias
 
 - HTML5
 - JavaScript (Vanilla)
 
-## Como executar
+## Organização
 
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `apresentacao.html` em qualquer navegador.
-3. Responda aos prompts solicitados (nome, idade e cidade).
-4. O resultado será exibido em um alerta e também registrado no console do navegador (`F12` → `Console`).
+Os exercícios estão separados por módulo para facilitar a localização e acompanhamento da evolução dos estudos.
+
+O projeto final permanece em uma pasta própria, independente dos exercícios, para facilitar sua apresentação e avaliação.
 
 ## Aprendizados
 
-Este exercício reforça conceitos fundamentais de JavaScript:
+Durante este curso são trabalhados conceitos fundamentais de lógica de programação e JavaScript, incluindo:
 
-- Captura de entrada do usuário.
-- Tratamento de valores inválidos ou ausentes.
-- Uso correto de `const` e `let`.
-- Template literals.
-- Exibição de resultados por meio de lógica pura (`alert()` e `console.log()`).
+- Variáveis e constantes.
+- Entrada e saída de dados.
+- Operadores.
+- Estruturas condicionais.
+- Estruturas de repetição.
+- Funções.
+- Manipulação e tratamento de dados.
+- Desenvolvimento de pequenos programas utilizando JavaScript.
