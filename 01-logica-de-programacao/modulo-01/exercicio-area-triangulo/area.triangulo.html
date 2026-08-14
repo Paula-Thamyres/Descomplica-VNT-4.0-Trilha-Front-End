@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      let base = +prompt("Informe a base de um triângulo: ");
+      let altura = +prompt("Informe a altura de um triângulo: ");
+
+      if (isNaN(base) || isNaN(altura) || base <= 0 || altura <= 0) {
+        alert(`Valores inválidos. Base e altura devem ser números positivos.`);
+      } else {
+          const areaTriangulo = (base * altura) / 2;
+          alert(`A base informada foi ${base}, a altura informada foi ${altura} e o a área eh: ${areaTriangulo.toFixed(2)}`);
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
+
