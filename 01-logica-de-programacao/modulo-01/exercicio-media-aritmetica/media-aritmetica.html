@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <meta charset="UTF-8" />
+  <script>
+    let valor1 = +prompt('Informe o primeiro valor: ');
+    let valor2 = +prompt('Informe o segundo valor: ');
+
+    const entradasValidas =
+      valor1 !== null && valor2 !== null && !isNaN(valor1) && !isNaN(valor2);
+
+    if (!entradasValidas) {
+      alert('Valor inválido, digite apenas números.');
+    } else {
+      const mediaAritmetica = (valor1 + valor2) / 2;
+      alert(
+        `A média aritmética dos valores digitados pelo usuário é: ${mediaAritmetica.toFixed(2)}`
+      );
+    }
+  </script>
+</html>
+
+<!-- Faça um programa que leia dois valores numéricos, calcule e exiba sua média
+aritmética. -->
