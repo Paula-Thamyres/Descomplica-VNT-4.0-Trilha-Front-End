@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Exercício - Operador de Negação</title>
+  </head>
+  <body>
+    <script>
+      const estaLogado = true;
+      const temPermissao = false;
+
+      const naoEstaLogado = !estaLogado;
+      const naoTemPermissao = !temPermissao;
+
+      function mostrarResultado(nome, valorOriginal, valorInvertido) {
+        const texto = `${nome}: ${valorOriginal} → Invertido: ${valorInvertido}`;
+        document.write(texto + '<br>');
+        console.log(texto);
+      }
+
+      mostrarResultado('estaLogado', estaLogado, naoEstaLogado);
+      mostrarResultado('temPermissao', temPermissao, naoTemPermissao);
+    </script>
+  </body>
+</html>
