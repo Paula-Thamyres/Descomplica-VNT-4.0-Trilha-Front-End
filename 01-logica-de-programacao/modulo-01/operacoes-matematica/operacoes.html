@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      let numero1 = +prompt('Informe o primeiro número: ');
+      let numero2 = +prompt('Informe o segundo número: ');
+
+      if (
+        numero1 === null ||
+        numero2 === null ||
+        isNaN(numero1) ||
+        isNaN(numero2)
+      ) {
+        alert('Entrada inválida. Digite apenas números.');
+      } else if (numero2 === 0) {
+        alert('Não é possível dividir por zero.');
+      } else {
+        const soma = numero1 + numero2;
+        const subtracao = numero1 - numero2;
+        const multiplicacao = numero1 * numero2;
+        const divisao = numero1 / numero2;
+        const restoDaDivisao = numero1 % numero2;
+
+        alert(`Números informados: ${numero1} e ${numero2}
+      Soma: ${soma}
+      Subtração: ${subtracao}
+      Multiplicação: ${multiplicacao}
+      Divisão: ${divisao.toFixed(2)}
+      Resto da divisão: ${restoDaDivisao}`);
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
